@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the dashboard and product catalog in the root route and use the generated browser client with row-level access for authenticated reads and writes, keeping private records out of public server rendering.
